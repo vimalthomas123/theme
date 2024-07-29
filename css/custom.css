@@ -1,0 +1,18 @@
+.errorpage{
+    padding: 80px 15px ;
+    text-align: center;
+}
+.errorpage .cta__primary{
+    margin: auto;
+}
+.errorpage .page-title{
+    font-size: 100px;
+}
+@media (max-width:720px) {
+    .errorpage .page-title{
+    font-size: 80px;
+}
+}
+.hero__banner .overlay__grid__wrap .overlay__grid__wrap__item .overlay__grid__wrap__item__footer__icon{
+    width: auto;max-width: 50%;
+}
